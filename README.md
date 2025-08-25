@@ -56,7 +56,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Berfin4615&theme=onedark)](https://github.com/Berfin4615/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Berfin4615&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
